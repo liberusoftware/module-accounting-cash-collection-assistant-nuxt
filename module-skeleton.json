@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-cash-collection-assistant-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-cash-collection-assistant",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-cash-collection-assistant-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/cash-collection-assistant.md",
+  "presentationPlan": "projects/accounting/nuxt/cash-collection-assistant.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
